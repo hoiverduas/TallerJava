@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27981b87-3834-4f81-b51b-2b3f05d2da8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/src/DatosFamiliares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosFamiliares/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosMascota/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatosPesonales/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/NombreApellidos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombreApelliso/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisCiudad/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DatosFamiliares" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ObaYqfjAx7lENyZkPsPZp3b2eB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hoive/OneDrive/Escritorio/Sofka_U/Taller #1 - Variables-Java/NombreApelliso"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27981b87-3834-4f81-b51b-2b3f05d2da8e" name="Changes" comment="" />
+      <created>1681831786412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681831786412</updated>
+    </task>
+    <servers />
+  </component>
+</project>
