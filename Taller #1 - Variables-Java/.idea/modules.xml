@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DatosFamiliares/DatosFamiliares.iml" filepath="$PROJECT_DIR$/DatosFamiliares/DatosFamiliares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatosMascota/DatosMascota.iml" filepath="$PROJECT_DIR$/DatosMascota/DatosMascota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatosPesonales/DatosPesonales.iml" filepath="$PROJECT_DIR$/DatosPesonales/DatosPesonales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NombreApelliso/NombreApelliso.iml" filepath="$PROJECT_DIR$/NombreApelliso/NombreApelliso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaisCiudad/PaisCiudad.iml" filepath="$PROJECT_DIR$/PaisCiudad/PaisCiudad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Taller #1 - Variables-Java.iml" filepath="$PROJECT_DIR$/.idea/Taller #1 - Variables-Java.iml" />
+    </modules>
+  </component>
+</project>
